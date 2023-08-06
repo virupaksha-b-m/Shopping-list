@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(202, 13, 129, 0.43);
+  text-align: center;
+}
+
+section {
+  display: inline-block;
+}
+
+.App {
+  border: dotted;
+  background-color: white;
+  width: fit-content;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+}
+
+li {
+  list-style: none;
+}
